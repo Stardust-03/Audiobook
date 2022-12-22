@@ -1,2 +1,2 @@
 # Audiobook
- It contains the data preprocessing of audiobook case study
+ It contains the data preprocessing  and machine learning model of audiobook case study .
